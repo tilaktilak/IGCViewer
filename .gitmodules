@@ -1,0 +1,6 @@
+[submodule "igc_lib"]
+	path = igc_lib
+	url = https://github.com/xiadz/igc_lib.git
+[submodule "IGC2CSV"]
+	path = IGC2CSV
+	url = https://github.com/OverloadUT/IGC2CSV.git
